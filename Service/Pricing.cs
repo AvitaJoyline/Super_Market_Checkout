@@ -6,17 +6,21 @@ namespace SuperMarketCheckout.Service
         {
             private List<Price> _pricing = new List<Price>();
 
-            public void SetPricingRules(IEnumerable<Price> pricingRules)
-            {
-                _pricing = pricingRules.ToList();
-            }
-
-            public int GetUnitPrice(string sku)
+        /// <summary>
+        /// Gets the unit price of a product by its SKU.
+        /// </summary>
+        /// <param name="sku">The SKU of the product.</param>
+        /// <returns>The unit price.</returns>
+        public int GetUnitPrice(string sku)
             {
                 return _pricing.FirstOrDefault(p => p.SKU == sku)?.UnitPrice ?? 0;
             }
-
-            public (int? Quantity, int? Price) GetOffer(string sku)
+        /// <summary>
+        /// Gets the offer details for a product by its SKU.
+        /// </summary>
+        /// <param name="sku">The SKU of the product.</param>
+        /// <returns>The offer details (quantity and price).</returns>
+        public (int? Quantity, int? Price) GetOffer(string sku)
             {
                 var rule = _pricing.FirstOrDefault(p => p.SKU == sku);
                 return (rule?.Quantity, rule?.OfferPrice);

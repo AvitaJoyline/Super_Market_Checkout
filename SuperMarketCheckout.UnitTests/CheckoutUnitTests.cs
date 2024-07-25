@@ -4,9 +4,14 @@ using SuperMarketCheckout.Service;
 using Xunit;
 
 namespace SuperMarketCheckout.UnitTests;
-
+/// <summary>
+/// Unit tests for the Checkout functionality.
+/// </summary>
 public class CheckoutUnitTests
 {
+    /// <summary>
+    /// Tests the calculation of total price without any offers.
+    /// </summary>
     [Fact]
     public void GetTotalNoOffer()
     {
@@ -40,6 +45,10 @@ public class CheckoutUnitTests
         Assert.Equal(100, total);
 
     }
+
+    /// <summary>
+    /// Tests the calculation of total price with offers applied.
+    /// </summary>
     [Fact]
     public void GetTotalWithOffers()
     {

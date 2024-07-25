@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|c:\\users\\avita\\source\\repos\\supermarketcheckout\\supermarketcheckout\\supermarketcheckout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|solutionrelative:supermarketcheckout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|c:\\users\\avita\\source\\repos\\supermarketcheckout\\supermarketcheckout\\service\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|solutionrelative:service\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|c:\\users\\avita\\source\\repos\\supermarketcheckout\\supermarketcheckout\\service\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|solutionrelative:service\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|c:\\users\\avita\\source\\repos\\supermarketcheckout\\supermarketcheckout\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|c:\\users\\avita\\source\\repos\\supermarketcheckout\\supermarketcheckout\\service\\ipricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|solutionrelative:service\\ipricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|c:\\users\\avita\\source\\repos\\supermarketcheckout\\supermarketcheckout\\supermarketcheckout.unittests\\checkoutunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|solutionrelative:supermarketcheckout.unittests\\checkoutunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|c:\\users\\avita\\source\\repos\\supermarketcheckout\\supermarketcheckout\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|c:\\users\\avita\\source\\repos\\supermarketcheckout\\supermarketcheckout\\supermarketcheckout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E21882B-99AC-4FF3-AC6D-07DFC50A5B64}|SuperMarketCheckout.csproj|solutionrelative:supermarketcheckout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CheckoutUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\SuperMarketCheckout.UnitTests\\CheckoutUnitTests.cs",
-              "RelativeDocumentMoniker": "SuperMarketCheckout.UnitTests\\CheckoutUnitTests.cs",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\SuperMarketCheckout.UnitTests\\CheckoutUnitTests.cs",
-              "RelativeToolTip": "SuperMarketCheckout.UnitTests\\CheckoutUnitTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T15:19:15.607Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -45,22 +44,22 @@
               "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
               "ToolTip": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\Controllers\\CheckoutController.cs",
               "RelativeToolTip": "Controllers\\CheckoutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T15:17:54.564Z",
+              "WhenOpened": "2024-07-25T15:37:57.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SuperMarketCheckout",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\SuperMarketCheckout.csproj",
-              "RelativeDocumentMoniker": "SuperMarketCheckout.csproj",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\SuperMarketCheckout.csproj",
-              "RelativeToolTip": "SuperMarketCheckout.csproj",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAoAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-24T14:47:05.161Z",
+              "DocumentIndex": 3,
+              "Title": "IPricing.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\Service\\IPricing.cs",
+              "RelativeDocumentMoniker": "Service\\IPricing.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\Service\\IPricing.cs",
+              "RelativeToolTip": "Service\\IPricing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:34:50.26Z",
               "EditorCaption": ""
             },
             {
@@ -68,8 +67,60 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\Service\\Checkout.cs",
+              "RelativeDocumentMoniker": "Service\\Checkout.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\Service\\Checkout.cs",
+              "RelativeToolTip": "Service\\Checkout.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:34:01.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\SuperMarketCheckout.UnitTests\\CheckoutUnitTests.cs",
+              "RelativeDocumentMoniker": "SuperMarketCheckout.UnitTests\\CheckoutUnitTests.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\SuperMarketCheckout.UnitTests\\CheckoutUnitTests.cs",
+              "RelativeToolTip": "SuperMarketCheckout.UnitTests\\CheckoutUnitTests.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:47:47.805Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperMarketCheckout.csproj",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\SuperMarketCheckout.csproj",
+              "RelativeDocumentMoniker": "SuperMarketCheckout.csproj",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\SuperMarketCheckout.csproj",
+              "RelativeToolTip": "SuperMarketCheckout.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T14:47:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pricing.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\Service\\Pricing.cs",
+              "RelativeDocumentMoniker": "Service\\Pricing.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\SupermarketCheckout\\SuperMarketCheckout\\Service\\Pricing.cs",
+              "RelativeToolTip": "Service\\Pricing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:33:44.802Z",
+              "EditorCaption": ""
             }
           ]
         }
