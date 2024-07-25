@@ -10,18 +10,32 @@ namespace SuperMarketCheckout.Controllers
         {
             private readonly ICheckout _checkout;
 
-            public CheckoutController(ICheckout checkout)
+        /// <summary>
+        /// Initializes a new instance of the <see cref="CheckoutController"/> class.
+        /// </summary>
+        /// <param name="checkout">The checkout service to use.</param>
+        public CheckoutController(ICheckout checkout)
             {
                 _checkout = checkout;
             }
 
-            [HttpPost]
+        /// <summary>
+        /// Scans an item by its SKU.
+        /// </summary>
+        /// <param name="sku">The SKU of the item to scan.</param>
+        /// <returns>HTTP status code indicating the result of the operation.</returns>
+        [HttpPost]
             public IActionResult ScanItem(string sku)
             {
                 _checkout.Scan(sku);
                 return Ok();
             }
-            [HttpGet]
+
+        /// <summary>
+        /// Gets the total price of all scanned items.
+        /// </summary>
+        /// <returns>The total price.</returns>
+        [HttpGet]
             public IActionResult GetTotal()
             {
                 var total = _checkout.GetTotalPrice();
